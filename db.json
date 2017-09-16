@@ -1,0 +1,22 @@
+{
+  "users":[
+    {
+      "id" : 1,
+      "name": "Kanye West",
+      "job_title": "Musical Genius",
+      "address": "123 Fake Street, South Side Chicago",
+      "phone": "514-555-5555",
+      "email": "yeezus@kanye.com",
+      "picture": "test"
+    },
+    {
+      "id" : 2,
+      "name": "Taylor Swift",
+      "job_title": "Pop Star",
+      "address": "123 Main Street, New York",
+      "phone": "514-555-1111",
+      "email": "taylor@swift.com",
+      "picture": "taylor pic"
+    }
+  ]
+}

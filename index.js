@@ -5,6 +5,11 @@ const middlewares = jsonServer.defaults();
 const fs = require('fs');
 const port = process.env.PORT || 3001;
 
+server.use(function(req, res, next) {
+  // add 1 second delay
+  setTimeout(next, 1000);
+});
+
 server.use(middlewares);
 server.use(router);
 

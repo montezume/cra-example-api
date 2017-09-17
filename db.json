@@ -1,18 +1,31 @@
 {
   "users": [
     {
-      "id": 2,
+      "id": 1,
       "name": "Taylor Swift",
-      "job_title": "Pop Star",
+      "job_title": "Pop Star!",
       "address": "123 Main Street, New York",
       "phone": "514-555-1111",
       "email": "taylor@swift.com",
-      "picture": "taylor pic"
+      "picture": "/images/taylor.jpg"
     },
     {
-      "name": "Kanye",
-      "phone": "",
-      "id": 3
+      "id": 2,
+      "name": "Kanye West",
+      "job_title": "Musical Genius",
+      "address": "122 Clark, South Side, Chicago",
+      "phone": "514-555-1111",
+      "email": "yeezus@kanye.com",
+      "picture": "/images/kanye.jpg"
+    },
+    {
+      "name": "Matt Test",
+      "address": "123",
+      "job_title": "fewa",
+      "phone": "fewa",
+      "email": "test@test.com",
+      "picture": "",
+      "id": 5
     }
   ]
 }
